@@ -6,7 +6,7 @@ t=int(a//60)
 sec=int(a%60)
 print(f"minutes {t}:sekundid {sec}")
 
-
+#
 
 
 
